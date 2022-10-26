@@ -9,6 +9,8 @@ name: taigi
 version: "20170920"
 sort: by_weight
 use_preset_vocabulary: false
+import_tables:
+  - han_jin_sian_tsoo_iong_e_ji
 ...
 萋	tshe1	1%
 上	siong7	1
@@ -7042,7 +7044,7 @@ use_preset_vocabulary: false
 裂	liat8	
 烈	liat8	
 冽	liat8	
-		
+                
 堅	kian1	10
 肩	kian1	5%
 繭	kian2	
@@ -33718,7 +33720,7 @@ ua̋i-siat-tsuh	uai siat tsuh
 sāi-thái	sai thai	
 uân-仔	uan a	
 #教典#		
-		
+                
 ##		
 一刀兩斷		
 一下		
@@ -52722,7 +52724,7 @@ A仔菜
 灣里街		
 蠻蠻		
 ###		
-		
+                
 食果子拜樹頭；食米飯拜田頭		
 嚴官府出厚賊；嚴爸母出阿里不達		
 一人一家代		

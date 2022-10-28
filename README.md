@@ -2,7 +2,7 @@
 
 為以下高手們無私的貢獻，致上十二萬分的感謝！
 
-- [a-thok/rime-hokkien](https://github.com/a-thok/rime-hokkien) :
+- [a-thok/rime-hokkien](https://github.com/a-thok/rime-hokkien)；
 
 - [glll4678/rime-taigi](https://github.com/glll4678/rime-taigi)。
 
@@ -12,9 +12,10 @@
 
 ## 安裝
 
-1. 安裝 [RIME](http://rime.im)
+1. 安裝 [RIME](http://rime.im) ； 
 
 2. 下載 [rime-taigi](https://github.com/AlanJui/rime-taigi/releases)
+   壓縮包檔案；
 
 3. RIME 設定檔所在目錄路徑（或稱：資料夾），在不同的作業系統，各有不同：    
 

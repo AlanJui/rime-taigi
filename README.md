@@ -14,7 +14,7 @@
 
 1. 安裝 [RIME](http://rime.im)
 
-2. 下載 [rime-taigi](https://github.com/AlanJui/rime-taigi/archive/main.zip)
+2. 下載 [rime-taigi](https://github.com/AlanJui/rime-taigi/releases)
 
 3. RIME 設定檔所在目錄路徑（或稱：資料夾），在不同的作業系統，各有不同：    
 

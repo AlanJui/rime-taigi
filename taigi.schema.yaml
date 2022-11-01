@@ -5,9 +5,9 @@
 schema:
   schema_id: taigi
   name: 台語
-  version: "20170920"
+  version: "v0.0.0.1"
   author:
-  description: 
+  description: 我的漢字庫
 
 switches:
   - name: ascii_mode
@@ -205,7 +205,6 @@ translator:
     - 'xform o; o̍'
     - 'xform mh; m̍h'
     - 'xform ngh; n̍gh'
-
 
 reverse_lookup:
   dictionary: luna_pinyin

@@ -5,11 +5,14 @@
 #
 
 ---
-name: han_jin_sian_tsoo_iong_e_ji
-version: "0.0.0.1"
+name: gua_e_han_ji_khoo
+version: "v0.0.0.1"
 sort: by_weight
 use_preset_vocabulary: false
 ...
+萋	tshe1	1%
+上	siong7	1
+上	siong2	10
 前一陣	tsing5 tsit8 tsun7
 看著	khuann3 tioh8
 佇這	ti7 tsiah4
@@ -85,3 +88,9 @@ use_preset_vocabulary: false
 做伙	tso3 hue2
 做夥	tso3 hue2
 鬥相共	tau3 sann1 kang7
+好否	ho2 boo3
+捎無	sa1 bo5
+看袂曉	khuann3 be7 hiau2
+毋知	m7 tsai1
+佇遮	ti7 tsia1
+

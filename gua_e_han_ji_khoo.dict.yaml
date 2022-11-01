@@ -10,87 +10,93 @@ version: "v0.0.0.1"
 sort: by_weight
 use_preset_vocabulary: false
 ...
-萋	tshe1	1%
-上	siong7	1
-上	siong2	10
-前一陣	tsing5 tsit8 tsun7
-看著	khuann3 tioh8
-佇這	ti7 tsiah4
-佇頂面	ti7 ting2 bing7
-住佇	tua3 ti7
-誠心適	tsiann5 sim1 sik4
-一寡	tsit8 kua2
-一霎仔久	tsit8 sap4 a2 ku2
-一點仔	tsit8 tiam2 a2
-吞忍	thun1 jim2
-清采講講	tshing1 tshai2 kong2 kong2
-若有	na7 u7
-是啥物	si7 siann2 mih8
-為啥物	ui7 siann2 mih8
-我臆	gua2 ioh4
-事誌	tai7 tsi3
-經過了後	king1 kue3 liau2 au7
-才知	tsiah4 tsai1
-厝內	tshu3 lai7
-進前	tsin3 tsing5
-定定	tiann7 tiann7
-是呢講啥	si7 ne1 kong2 siann2
-顛倒	tian1 to2
-足有	tsiok4 u7
-佮	kah4
-擋袂牢	tong3 be7 tiau5
-毋好閣忍	m7 ho2 koh4 jim2
-性地䆀	sing3 te7 bai2
-忍一咧就好	jim2 tsit8 leh4 to7 ho2
-原因出佇咧	guan5 in1 tshut ti7 leh4
-細漢時	se3 han3 si5
-慣勢	kuan3 se3
-干焦	kan1 na1
-知影	tsai1 iann2
-聽的著	thiann1 e5 tioh8
-拄拄矣	tu2 tu2 -ah
-才會	tsiah4 e7
-欲按怎樣	beh4 an2 tsuann2 iunn7
-予人知影	hoo7 lang5 tsai1 iann2
-某乜人	boo2 mi2 lang5
-生成	senn1 sing5
-啥款	siann2 khuan2
-毋知	m7 tsai1
-毋捌	m7 bat4
-毋才	m7 tsiah1
-請裁	tshiann2 tshai5
-這麼	tsiah4 nih8
-袂輸	bue7 su1	好像
-較早	khah4 tsa2
-咧	leh4
-敢講	kam2 kong2	難道、莫非
-擋袂牢	tong2 be7 tiau5
-一个	tsit8 e5
-找來	tshue7 lai5
-揣到	tshue7 tioh8
-捌	bat
-時陣	si5 tsun7
-誠可能	tsiann5 kho2 ling5
-頭先	thau5 sing1
-袂當	be7 tang3
-毋通	m7 thang1
-傷粗魯	siunn1 tshoo1 loo2
-使性地	sai2 sing3 te7
-嘛是	ma7 si7
-會當	e7 tang3
-今也	tsim2 ma2
-今也	tsim2 a2
-又佫	iu7 koh4
-要	beh4
-逐工	tak8 kang1
-向望	ng3 bang7
-歹過	phainn2 kue3
-做伙	tso3 hue2
-做夥	tso3 hue2
-鬥相共	tau3 sann1 kang7
-好否	ho2 boo3
-捎無	sa1 bo5
-看袂曉	khuann3 be7 hiau2
-毋知	m7 tsai1
-佇遮	ti7 tsia1
-
+一个	tsit8 e5		一個
+一寡	tsit8 kua2		一些
+一霎仔久	tsit8 sap4 a2 ku2		指極短的時間內
+一點仔	tsit8 tiam2 a2		一點點
+卜	beh4		欲（beh）在傳統閩南語書寫中常寫做「卜」
+又佫	iu7 koh4		又再
+上	siong7	1	
+上	siong2	10	
+干焦	kan1 na1		僅只
+才知	tsiah4 tsai1		這才知道
+才會	tsiah4 e7		
+予人知影	hoo7 lang5 tsai1 iann2		
+今也	tsim2 ma2		現在，有人稱：這馬
+今也	tsim2 a2		現在，有人稱：這馬
+歹過	phainn2 kue3		
+毋才	m7 tsiah1		所以才⋯⋯
+毋好閣忍	m7 ho2 koh4 jim2		不宜再忍
+毋知	m7 tsai1		不知道
+毋捌	m7 bat4		不曾過
+毋通	m7 thang1		不可以
+生成	senn1 sing5		
+向望	ng3 bang7		祈望、希望
+好否	ho2 boo3		好嗎？
+佇這	ti7 tsiah4		在這裡
+佇頂面	ti7 ting2 bing7		在上面
+佇遮	ti7 tsia1		在這裡＝佇這
+住佇	tua3 ti7		住在
+吞忍	thun1 jim2		忍耐
+忍一咧就好	jim2 tsit8 leh4 to7 ho2		忍一下就好
+我臆	gua2 ioh4		我猜
+找來	tshue7 lai5		
+足有	tsiok4 u7		
+事誌	tai7 tsi3		事情，一般用：代誌
+佮	kah4		與、和、同
+使性地	sai2 sing3 te7		發脾氣
+定定	tiann7 tiann7		常常
+性地䆀	sing3 te7 bai2		修養差，脾氣不好
+拄拄矣	tu2 tu2 -ah		剛剛
+知影	tsai1 iann2		知道
+前一陣	tsing5 tsit8 tsun7		前些日子
+咧	leh4		語助詞
+按呢	an2 ne1		這樣
+按呢	an2 nih4		這樣
+是呢講啥	si7 ne1 kong2 siann2		不同意別人所說的話
+是啥物	si7 siann2 mih8		是什麼
+某乜人	boo2 mi2 lang5		某人
+為啥物	ui7 siann2 mih8		為什麼
+看袂曉	khuann3 be7 hiau2		看不懂＝捎無
+看著	khuann3 tioh8		
+若有	na7 u7		
+要	beh4		欲、想⋯⋯
+厝內	tshu3 lai7		家裡
+原因出佇咧	guan5 in1 tshut ti7 leh4		原因出在…
+捌	bat		曾經
+捎無	sa1 bo5		搞不懂
+時陣	si5 tsun7		時候
+袂當	be7 tang3		不可以
+袂輸	bue7 su1		好像
+鬥相共	tau3 sann1 kang7		來幫忙
+做伙	tso3 hue2		結伴在一起
+做夥	tso3 hue2		結伴在一起
+啥款	siann2 khuan2		如何
+欲按怎樣	beh4 an2 tsuann2 iunn7		該怎麼辦
+細漢時	se3 han3 si5		兒時
+逐工	tak8 kang1		每天
+這麼	tsiah4 nih8		
+揣到	tshue7 tioh8		找到
+敢講	kam2 kong2		難道、莫非
+萋	tshe1	1%	
+進前	tsin3 tsing5		前些時候
+傷粗魯	siunn1 tshoo1 loo2		太粗魯
+會當	e7 tang3		可以
+經過了後	king1 kue3 liau2 au7		經歷之後
+誠心適	tsiann5 sim1 sik4		很好玩
+誠可能	tsiann5 kho2 ling5		很有可能
+較早	khah4 tsa2		指之前的日子、過去的時候
+嘛是	ma7 si7		也是
+慣勢	kuan3 se3		習慣
+與	kah4		和、共
+與	ham1		和、共
+請裁	tshiann2 tshai5		隨意、隨便
+請裁講講	tshing1 tshai2 kong2 kong2		清采講講
+擋袂牢	tong2 be7 tiau5		忍不住
+頭先	thau5 sing1		起初，一開始⋯⋯
+顛倒	tian1 to2		反而
+聽的著	thiann1 e5 tioh8		聽得到
+即呢	tsiah4 nih1		這樣
+這樣	tsit4 iunn7		這樣
+這款	tsit4 khuan2		這樣
+遮爾	tsiah4 ni7		這樣

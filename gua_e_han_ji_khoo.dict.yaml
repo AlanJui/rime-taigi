@@ -9,26 +9,26 @@ name: gua_e_han_ji_khoo
 version: "v0.0.0.1"
 sort: by_weight
 use_preset_vocabulary: false
-...
+---
 一个	tsit8 e5		一個
 一寡	tsit8 kua2		一些
 一霎仔久	tsit8 sap4 a2 ku2		指極短的時間內
 一點仔	tsit8 tiam2 a2		一點點
 卜	beh4		欲（beh）在傳統閩南語書寫中常寫做「卜」
 又佫	iu7 koh4		又再
-上	siong7	1	
-上	siong2	10	
+上	siong7	1
+上	siong2	10
 干焦	kan1 na1		僅只
 才知	tsiah4 tsai1		這才知道
-才會	tsiah4 e7		
+才會	tsiah4 e7
 中晝	tiong1 tau3		中午，午時
-予人知影	hoo7 lang5 tsai1 iann2		
+予人知影	hoo7 lang5 tsai1 iann2
 今也	tsim2 ma2		現在，有人稱：這馬
 今也	tsim2 a2		現在，有人稱：這馬
 今仔日	kin1 a2 jit8		今日、今天
 少󠇡寡	tsio2 khua2		一點點、一些些
 尤其	iu5 ki5		特別是⋯⋯
-歹過	phainn2 kue3		
+歹過	phainn2 kue3
 毋才	m7 tsiah1		所以才⋯⋯
 毋好閣忍	m7 ho2 koh4 jim2		不宜再忍
 毋但	m7 na7		不僅（反義詞：干焦）
@@ -39,7 +39,7 @@ use_preset_vocabulary: false
 去叼	khi2 toh4		去那裡
 叫是	kio3 si7		以為
 正	tsiann1		中、不偏的；真實的（正的）；右邊；剛好（正著時）
-生成	senn1 sing5		
+生成	senn1 sing5
 合	kah4		與、和、共、同
 向望	ng3 bang7		祈望、希望
 在	ti7		【例】：在這（遮）；在遐 [hia]
@@ -57,8 +57,8 @@ use_preset_vocabulary: false
 吞忍	thun1 jim2		忍耐
 忍一咧就好	jim2 tsit8 leh4 to7 ho2		忍一下就好
 我臆	gua2 ioh4		我猜
-找來	tshue7 lai5		
-足有	tsiok4 u7		
+找來	tshue7 lai5
+足有	tsiok4 u7
 事誌	tai7 tsi3		事情，一般用：代誌
 佮	kah4		與、和、同
 佳哉	ka1 tsai3		好在、多虧、萬幸、幸好、僥倖、幸而
@@ -88,9 +88,9 @@ use_preset_vocabulary: false
 為啥物	ui7 siann2 mih8		為什麼
 癸柴	kui2 tsha5		疊柴
 看袂曉	khuann3 be7 hiau2		看不懂＝捎無
-看著	khuann3 tioh8		
+看著	khuann3 tioh8
 紅嬰	ang5 enn1		小嬰兒
-若有	na7 u7		
+若有	na7 u7
 要	beh4		欲、想⋯⋯
 要	ai7		需要
 食力	tsiah8 lat8		吃力
@@ -118,13 +118,13 @@ use_preset_vocabulary: false
 這	tse1		這⋯⋯
 這馬	tsit4 ma2		現在
 這款	tsit4 khuan2		這樣
-這麼	tsiah4 nih8		
+這麼	tsiah4 nih8
 這樣	tsit4 iunn7		這樣
 愣去	gang7 khi3		呆住
 揣到	tshue7 tioh8		找到
 敢講	kam2 kong2		難道、莫非
 湧日	ing2 jit8		昔日
-萋	tshe1	1%	
+萋	tshe1	1%
 進前	tsin3 tsing5		前些時候
 順續	sun7 sua3		順便
 傷粗魯	siunn1 tshoo1 loo2		太粗魯
@@ -144,6 +144,8 @@ use_preset_vocabulary: false
 語意	gi2 i3		話語中的含義
 撞破	tong7 phua3		弄破
 請裁	tshiann2 tshai5		隨意、隨便
+秤採	tshin3 tshai2
+笑詼	tshio3 khue1
 請裁講講	tshing1 tshai2 kong2 kong2		清采講講
 遮爾	tsiah4 ni7		這樣
 擋袂牢	tong2 be7 tiau5		忍不住
@@ -151,3 +153,19 @@ use_preset_vocabulary: false
 顛倒	tian1 to2		反而
 聽的著	thiann1 e5 tioh8		聽得到
 驚	kiann1		怕
+跳腳踐蹄	thiau3 kha1 tsam2 te5
+想空想縫	siunn7 khang1 siunn7 phang7
+姑不二終	koo1 put4 ji7 tsiong1
+拆食落腹	thiah tshia8 lok8 pak
+歸年通天	kui ni5 tang2 thinn
+掠龜走鱉	liah8 ku1 tsau2 pih
+心狂火著󠇡	sim1 kong5 hue2 toh8
+氣身櫓命	khi3 sin1 loo2 mia7
+空嘴哺舌
+歪篙幟斜
+纏腳絆手
+烏龍󠇡踅桌
+假仙假牴
+無站無節
+戇頭戇面
+大舌興啼

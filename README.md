@@ -12,21 +12,39 @@
 
 ## 安裝
 
-1. 安裝 [RIME](http://rime.im) ； 
+1. 安裝 [RIME](http://rime.im) ；
 
 2. 下載 [rime-taigi](https://github.com/AlanJui/rime-taigi/releases)
    壓縮包檔案；
 
-3. RIME 設定檔所在目錄路徑（或稱：資料夾），在不同的作業系統，各有不同：    
+3. RIME 設定檔所在目錄路徑（或稱：資料夾），在不同的作業系統，各有不同：
 
-    - 鼠鬚管：`~/Library/Rime/`(macOS)  
+   - 鼠鬚管：`~/Library/Rime/`(macOS)
 
-    - 小狼毫：`"%APPDATA%\Rime"`(Windows)
+   - 小狼毫：`"%APPDATA%\Rime"`(Windows)
 
-    - 中州韻：`~/.config/ibus/rime/`(如：Ubuntu, ArchLinux，採用 Gnome 桌面＋ ibus 輸入作業平台)
+   - 中州韻：`~/.config/ibus/rime/`(如：Ubuntu, ArchLinux，採用 Gnome 桌面＋ ibus 輸入作業平台)
 
 4. 將作業系統使用中的輸入法，先切換成 RIME，再執行 RIME
    輸入法中的「重新部署」指令。
+
+## 四聲八調輸入
+
+本輸入法，基本上只需輸入「台羅拼音」字母即可；至於「聲調」則可省略不用。對於喜歡指明聲調者，則可
+改用以下所示之操作方式，於台羅拼音字母完成輸入後，再補以「聲調按鍵」輸入，即可指定拼音所用之聲調。
+
+| 調號 | 四聲八調  | 聲調按鍵 | 漢字 | 台羅拼音 | 按鍵輸入 |
+| :--: | :-------- | :------: | :--: | :------- | :------- |
+|  1   | 陰平 (a)  |    [     |  東  | tang     | tang[    |
+|  2   | 陰上 (á)  |    /     |  黨  | tóng     | tong/    |
+|  3   | 陰去 (à)  |    \     |  棟  | tòng     | tong\    |
+|  4   | 陰入 (ah) |    ]     |  督  | tok      | tok]     |
+|  5   | 陽平 (â)  |    9     |  同  | tông     | tong9    |
+|  6   | 陽上 (ǎ)  |    0     |  動  | tǒng     | tong0    |
+|  7   | 陽入 (ā)  |    -     |  洞  | tōng     | tong-    |
+|  8   | 陽去 (a̍h) |    ;     |  毒  | to̍k      | tok;     |
+
+![鍵盤](./docs/static/img/keyboard.png)
 
 ## 字形
 

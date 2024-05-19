@@ -1,0 +1,25 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 感謝 a-thok/rime-hokkien (https://github.com/a-thok/rime-hokkien)
+#
+
+---
+name: TLPA
+version: "v0.0.0.1"
+sort: by_weight
+use_preset_vocabulary: false
+dictionary:
+  - 東: { pronunciation: tong1, weight: 0.00 }
+  - 菄: { pronunciation: tong1, weight: 0.00 }
+  - 鶇: { pronunciation: tong1, weight: 0.00 }
+  - 䍶: { pronunciation: tong1, weight: 0.00 }
+  - 𠍀: { pronunciation: tong1, weight: 0.00 }
+  - 倲: { pronunciation: tong1, weight: 0.00 }
+  - 𩜍: { pronunciation: tong1, weight: 0.00 }
+  - 𢘐: { pronunciation: tong1, weight: 0.00 }
+  - 涷: { pronunciation: tong1, weight: 0.00 }
+  - 蝀: { pronunciation: tong1, weight: 0.00 }
+  - 凍: { pronunciation: tong1, weight: 0.00 }
+  - 鯟: { pronunciation: tong1, weight: 0.00 }
+  # 继续添加其他词条
